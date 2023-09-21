@@ -31,5 +31,12 @@ Admin Panel : `http://127.0.0.1:8000/admin/`
 3.http://127.0.0.1:8000/api/login/ - Login with token
 4.http://127.0.0.1:8000/api/employee-records/ - After login to enter an employee records
 
--
-	
+![Company_Register](https://github.com/abidplabon/Corporate-Asset-Tracking/assets/54079464/b0e711c4-1f7e-4c71-94bf-3c060aa67e41)
+
+![CURD_Employee_Records](https://github.com/abidplabon/Corporate-Asset-Tracking/assets/54079464/d2d302a4-e16d-46b3-b494-4b5da1c73431)
+
+![Employee_Record](https://github.com/abidplabon/Corporate-Asset-Tracking/assets/54079464/be85f7f5-2e26-4af0-93be-78861537798d)
+
+![Login](https://github.com/abidplabon/Corporate-Asset-Tracking/assets/54079464/efc232f3-d823-4ce5-a710-b07916f8b12b)
+
+
